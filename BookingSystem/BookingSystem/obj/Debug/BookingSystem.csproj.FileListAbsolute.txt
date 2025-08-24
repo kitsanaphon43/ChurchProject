@@ -17,3 +17,14 @@ c:\users\asus\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\
 c:\users\asus\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.csproj.GenerateResource.Cache
 c:\users\asus\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.exe
 c:\users\asus\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.pdb
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\bin\Debug\BookingSystem.exe.config
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.exe
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.pdb
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\bin\Debug\BookingSystem.exe
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\bin\Debug\BookingSystem.pdb
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.Booking_Login.resources
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.Properties.Resources.resources
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.Template.resources
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\ChurchProject\BookingSystem\BookingSystem\obj\Debug\BookingSystem.Booking_Sumary_table.resources
